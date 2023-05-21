@@ -4,11 +4,9 @@ Forked from https://sourceforge.net/projects/jargs/
 Building:
   - check out javaforce
     git clone http://github.com/pquiring/javaforce
-  - create lib folder
     cd javaforce
-    md lib
-    cd lib
   - check out jargs
+    cd lib
     git clone http://github.com/pquiring/jargs
   - build it
     cd jargs
